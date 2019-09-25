@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+.container{
+    padding: 2rem;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.result-title{
+    text-align: center;
+    font-size: 3rem;
+    font-family: sans-serif;
+    letter-spacing: 1rem;
+}
+.card-img-top{
+    background-position: center;
+    background-size: cover;
+    max-height: 10rem;
+}
+#result{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.loader{
+    width: 20rem;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
