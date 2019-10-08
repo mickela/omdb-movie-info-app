@@ -1,0 +1,13 @@
+#row{
+    margin: 1rem;
+    padding: 1rem;
+}
+.movie-heading{
+    font-size: 1rem;
+    font-weight: bolder;
+    font-family: monospace;
+}
+.movie-desc{
+    font-size: 1rem;
+    font-family: monospace;
+}
